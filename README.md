@@ -16,7 +16,7 @@ I enjoy coding whatever piques my interest, usually in the embedded or numerical
 
 ## 🌱 Currently learning
 
-- Plasma MHD and GPU Programming for my Bacherlor's Thesis
+- Fortran, GPU Programming and MHD for my Bacherlor's Thesis
 - Better **software engineering practices** for scientific code (testing, structure, readability)
 - Deepening my knowledge on useful **visualizations** for scientific projects
 
